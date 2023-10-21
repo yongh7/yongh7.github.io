@@ -3,7 +3,7 @@ layout: post
 title:  "Example post"
 author: yongh7
 date:   2012-10-21 20:20:35 +0200
-image: http://yongh7.github.io/assets/IMG_6318.heic
+image: https://github.com/yongh7/yongh7.github.io/blob/master/assets/images/IMG_6318.heic
 ---
 
 blablabla
