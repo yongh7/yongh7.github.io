@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Restaurants I'm gatekeeping"
+title:  "Restaurants"
 author: yongh7
 date:   2012-10-21 20:20:35 +0200
 image: /assets/images/food_03.JPG
 ---
+
+I am gatekeeping these restaurants.
 
 ### The bao NYC
 Address: 13 St Marks Pl, New York, NY 10003
