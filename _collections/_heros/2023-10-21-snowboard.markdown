@@ -8,17 +8,17 @@ image_caption:
 position: right
 ---
 
-### Ski resorts 
+### Ski resorts I went to last season
 
 #### Cali
-1. Mammoth:
-2. Bear mountain:
-3. Snow summit
+1. Mammoth: Driving to mammoth is some experience.
+2. Bear mountain: Driving to big bear is  also some experience...
+3. Snow summit: Jerrys go to snow summit.
 
 #### Utah
-1. Snowbird:
-2. Brighton: 
-3. Solitude: 
+1. Snowbird: The best ski resort?
+2. Brighton: Almost broke my back.
+3. Solitude: A blue run at solitude equals to a double black diamond at big bear.
 
 #### Colorado
-1. Winter Park: 
+1. Winter Park: I need oxygen
