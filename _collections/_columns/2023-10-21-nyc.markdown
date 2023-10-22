@@ -10,7 +10,7 @@ comments: true
 Concrete jungle wet dream tomato...
 
 #### Manhattan
-<img src="/assets/images/nyc_05.jpg" alt="Manhattan Maps" width="150">
+<img src="/assets/images/nyc_05.jpg" alt="Manhattan Maps" width="300">
 
 
 ##### Murray hills
