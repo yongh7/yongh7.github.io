@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New York City"
+title:  "Cinemas"
 author: yongh7
 date:   2012-10-21 20:20:35 +0200
 image: assets/images/nyc_01.JPG
