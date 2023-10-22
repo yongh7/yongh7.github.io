@@ -6,6 +6,7 @@ date:   2012-10-21 20:20:35 +0200
 image: /assets/images/misc_04.jpg
 image_caption: 
 position: center
+comments: true
 ---
 
 Some posts/articles/videos that I found interesting and I put them in this page, updated weekly.

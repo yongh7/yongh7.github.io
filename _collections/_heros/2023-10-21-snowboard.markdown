@@ -6,6 +6,7 @@ date:   2012-10-21 20:20:35 +0200
 image: /assets/images/sb_01.JPG
 image_caption: 
 position: right
+comments: true
 ---
 
 #### Ski resorts I went to last season
