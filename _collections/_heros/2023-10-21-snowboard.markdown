@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Snow journal"
+title:  "Snow"
 author: yongh7
 date:   2012-10-21 20:20:35 +0200
 # image: /assets/images/sb_01.JPG
@@ -9,7 +9,7 @@ position: right
 comments: true
 ---
 
-#### Ski resorts I went to last season
+#### 2023 Oct 21 - Ski resorts Summaray of last season
 
 ##### Cali
 1. Mammoth: Driving to mammoth is some experience.
