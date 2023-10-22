@@ -3,7 +3,7 @@ layout: post
 title:  "A Curated Chronicle of Perspectives"
 author: yongh7
 date:   2012-10-21 20:20:35 +0200
-image: /assets/images/misc_03.jpg
+image: /assets/images/misc_04.jpg
 image_caption: 
 position: center
 ---
