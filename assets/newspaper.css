@@ -1,7 +1,7 @@
 
 .heroColumn {
   float: center;
-  width: auto;
+  width: 100%;
   /* padding: 10px; */
 }
 .heroColumn img {
