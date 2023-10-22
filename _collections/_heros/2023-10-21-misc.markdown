@@ -4,7 +4,7 @@ title:  "A Curated Chronicle of Perspectives"
 author: yongh7
 date:   2012-10-21 20:20:35 +0200
 image: /assets/images/sb_01.JPG
-image_caption: blabla
+image_caption: 
 position: center
 ---
 
