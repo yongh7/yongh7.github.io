@@ -17,13 +17,4 @@ I am not a political person and I am not quilified to have an opinion on anythin
 
 [Friendly Feudalism: The Tibet Myth (2003)](https://redsails.org/friendly-feudalism/)
 
-### Can we win money in gambling? 
-
-The short answer is you **can't**. 
-
-Here is a nice post that explains why. [Paradoxes From Probability Theory: Independence](https://sites.pitt.edu/~jdnorton/teaching/paradox/chapters/probability_from_independence/probability_from_independence.html)
-
-### Intro to GWAS
-
-If you are interested in Genomics, my friend Edgar has an excellent post [here](https://emarro.github.io/posts/ml-in-bio/)
 
