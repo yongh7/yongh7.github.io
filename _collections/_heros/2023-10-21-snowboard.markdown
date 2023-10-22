@@ -12,7 +12,7 @@ position: right
 
 #### Cali
 1. Mammoth: Driving to mammoth is some experience.
-2. Bear mountain: Driving to big bear is  also some experience...
+2. Bear mountain: Driving to big bear is also some experience...
 3. Snow summit: Jerrys go to snow summit.
 
 #### Utah
