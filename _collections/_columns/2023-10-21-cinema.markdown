@@ -8,23 +8,23 @@ image: /assets/images/cinema_01.JPG
 
 120 minutes feels like 2 hours when you watch a good movie.
 
-### IFC center
+#### IFC center
 Address: 323 6th Ave, New York, NY 10014
 
 Near west 4 street subway
 
-### Metrograph
+#### Metrograph
 
 Address: 7 Ludlow St, New York, NY 10002
 
 In Chinatown 
 
-### filmforum NYC
+#### filmforum NYC
 Address: 209 W Houston St, New York, NY 10014
 
 Very close to IFC center, the very first indie movie cinema I have been to. 
 
-### Frida Cinema
+#### Frida Cinema
 Address: 305 E 4th St #100, Santa Ana, CA 92701
 
 The only indie film cinema in OC. 

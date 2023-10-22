@@ -11,7 +11,7 @@ position: left
 Worker bees can leave, even drones can fly away, the queen is their slave.
 
 
-### 2023 Oct
+#### 2023 Oct
 
 我不想去上学了，因为我太困、太冷了。学校里也没有人喜欢我。
 我不想去上学了，那里没有我喜欢的任何东西。

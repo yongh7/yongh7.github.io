@@ -8,27 +8,27 @@ image: /assets/images/food_03.JPG
 
 I am gatekeeping these restaurants.
 
-### The bao NYC
+#### The bao NYC
 Address: 13 St Marks Pl, New York, NY 10003
 Nutella banana Xiaolongbao
 
 
-### Taco Maria
+#### Taco Maria
 Address: 3313 Hyland Ave, Costa Mesa, CA 92626
 
-### Gyutan Tsukasa
+#### Gyutan Tsukasa
 Address: Mitsuwa Marketplace, 665 Paularino Ave, Costa Mesa, CA 92626
 牛舌饭
 
-### Noodle St
+#### Noodle St
 Address: 3963 Irvine Blvd, Irvine, CA 92602
 兰州牛肉面
 
-### Four Four South Village
+#### Four Four South Village
 Address: 11 E 7th St, New York, NY 10003
 台湾牛肉面
 
-### silky kitchen nyc
+#### silky kitchen nyc
 Address: 137 E 13th St, New York, NY 10003
 湖南菜
 
