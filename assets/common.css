@@ -55,6 +55,7 @@ a:hover {
 
 .item img, .video{
   max-width:100%;
+  height: auto;
   margin-bottom: .75em;
 }
 
