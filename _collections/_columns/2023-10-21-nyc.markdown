@@ -10,8 +10,8 @@ comments: true
 Concrete jungle wet dream tomato...
 
 #### Manhattan
+<img src="/assets/images/nyc_05.jpg" alt="Manhattan Maps" width="100">
 
-![Manhattan Maps](/assets/images/nyc_05.jpg)
 
 ##### Murray hills
 I hate Murray hills.
