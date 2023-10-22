@@ -16,7 +16,6 @@
 title: What is going on?
 email: yongh7@uci.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Some days you skurt skurt, some days you hurt hurt
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://yongh7.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: 'G-ZSRWWQW58Z' # Substitute this with your own GA key
