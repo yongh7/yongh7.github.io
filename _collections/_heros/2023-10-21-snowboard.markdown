@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Snowboarding and ski journal"
+title:  "Snow journal"
 author: yongh7
 date:   2012-10-21 20:20:35 +0200
 image: https://github.com/yongh7/yongh7.github.io/blob/master/assets/images/sb_01.JPG
