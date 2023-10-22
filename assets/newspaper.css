@@ -6,6 +6,7 @@
 }
 .heroColumn img {
   max-width: 100%;
+  width: auto;
   height: auto;
   margin-bottom: .75em;
   display: block;
