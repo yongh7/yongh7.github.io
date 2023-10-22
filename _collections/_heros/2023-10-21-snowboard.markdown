@@ -11,7 +11,7 @@ position: right
 ### Ski resorts 
 
 #### Cali
-1. Mammoth: 
+1. Mammoth:
 2. Bear mountain:
 3. Snow summit
 

@@ -7,9 +7,20 @@ image: /assets/images/food_03.JPG
 ---
 
 ### The bao NYC
-13 St Marks Pl, New York, NY 10003
-1. Nutella banana Xiaolongbao
+Address: 13 St Marks Pl, New York, NY 10003
+Nutella banana Xiaolongbao
 
 
 ### Taco Maria
-3313 Hyland Ave, Costa Mesa, CA 92626
+Address: 3313 Hyland Ave, Costa Mesa, CA 92626
+
+### Gyutan Tsukasa
+Address: Mitsuwa Marketplace, 665 Paularino Ave, Costa Mesa, CA 92626
+牛舌饭
+
+### Noodle St
+Address: 3963 Irvine Blvd, Irvine, CA 92602
+兰州牛肉面
+
+
+
