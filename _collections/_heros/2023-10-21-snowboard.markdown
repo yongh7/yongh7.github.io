@@ -19,6 +19,3 @@ position: right
 1. Snowbird: The best ski resort?
 2. Brighton: Almost broke my back.
 3. Solitude: A blue run at solitude equals to a double black diamond at big bear.
-
-#### Colorado
-1. Winter Park: I need oxygen
