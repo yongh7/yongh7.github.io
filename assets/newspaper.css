@@ -6,7 +6,7 @@
 .heroColumn {
   float: center;
   width: 80%;
-  padding: 10px;
+  /* padding: 10px; */
 }
 .heroColumn img {
   max-width: 100%;
