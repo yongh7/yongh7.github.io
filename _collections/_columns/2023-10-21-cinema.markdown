@@ -3,7 +3,7 @@ layout: post
 title:  "Cinemas"
 author: yongh7
 date:   2012-10-21 20:20:35 +0200
-image: /assets/images/nyc_01.JPG
+image: /assets/images/cinema_01.JPG
 ---
 
-Concrete jungle wet dream tomato...
+120 minutes feels like 2 hours when you watch a good movie.
