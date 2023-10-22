@@ -3,7 +3,7 @@ layout: post
 title:  "Lifting Journal"
 author: yongh7
 date:   2012-10-21 20:20:35 +0200
-image: /assets/images/lift_01.JPG
+image: /assets/images/lift_01.jpg
 ---
 
 ### 2023 Oct 

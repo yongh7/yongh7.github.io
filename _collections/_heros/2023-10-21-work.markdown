@@ -8,4 +8,4 @@ image_caption:
 position: left
 ---
 
-Worker bees can leave, even drones can fly away, the queen is their slaves.
+Worker bees can leave, even drones can fly away, the queen is their slave.
