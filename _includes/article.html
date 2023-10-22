@@ -4,6 +4,6 @@
   {% if item.image_caption %}
     <blockquote>{{ include.item.image_caption }}</blockquote>
   {% endif %}
-  <h6>{{ include.item.date | date:"%d/%m/%y"}}</h6>
+  <h6 style="text-align: center;">{{ include.item.date | date:"%d/%m/%y"}}</h6>
   {{ include.item.excerpt }}
 </article>
