@@ -3,13 +3,12 @@ layout: default
 post_list: false
 toc: false
 comment: false
-home_btn: true
+home_btn: false
 btn_text: true
 footer: true
 title: ""
 author: ""
 encrypted_text: true
-permalink: /
 ---
 
 # Hey! You found me here, I build this site to leave you a message everyday. 
