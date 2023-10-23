@@ -6,8 +6,6 @@ baseurl            : "/"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
-bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
 # You can specify the order shown in Archive window. 
