@@ -2,7 +2,7 @@
 title               : pRoJEct-VeXEd
 owner               : "DeerRIDER"
 url                : "https://yongh7.github.io"
-baseurl            : "/pRoJEct-VeXEd"
+baseurl            : "/"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
 markdown            : kramdown
