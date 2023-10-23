@@ -1,11 +1,11 @@
 
 .heroColumn {
   float: center;
-  width: 50%;
+  width: 100%;
   /* padding: 10px; */
 }
 .heroColumn img {
-  max-width: 50%;
+  max-width: 100%;
   width: auto;
   height: auto;
   margin-bottom: .75em;
