@@ -12,7 +12,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# Hey! You found me, I left you a message. 
+# Hey! You found me here, I build this site to leave you a message everyday. 
 
 <br>
 >Enter your first name in lowercase and hit the token button to view my message. If it's invalid, sorry this
