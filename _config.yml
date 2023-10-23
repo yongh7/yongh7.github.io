@@ -15,6 +15,7 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 collection_order    : 
   [
     "posts",
+    "secrete",
   ]
 collections:
   posts:
