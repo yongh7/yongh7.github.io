@@ -1,6 +1,6 @@
 # 1. Site Settings
-title               : pRoJEct-VeXEd
-owner               : "DeerRIDER"
+title               : Yong Huang
+owner               : "yongh7"
 url                : "https://yongh7.github.io"
 baseurl            : "/"
 permalink           : /:title/
@@ -22,7 +22,7 @@ collections:
     output          : true
 
 # 3. Comment settings（disqus.com）
-disqus_username     : akiritsu
+disqus_username     : yongh7
 
 # 4. Default page settings (WILL BE overwriten by front-matters of a page)
 defaults:
@@ -47,11 +47,11 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "https://github.com/akiritsu/pRoJEct-VeXEd" 
+email               : "just-test" 
 linkedin            : 
 github              : "just-test" 
 gitlab              : 
-website             : "https://github.com/akiritsu/pRoJEct-VeXEd"
+website             : "just-test" 
 twitter             : "just-test"
 facebook            : "just-test"
 instagram           : 
