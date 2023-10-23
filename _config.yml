@@ -12,12 +12,11 @@ markdown            : kramdown
 # Keep it null if you want to show items in alphabetic order.
 collection_order    : 
   [
-    "posts",
-    "secrete",
+    # "posts",
   ]
 collections:
-  posts:
-    output          : true
+  # posts:
+  #   output          : true
 
 # 3. Comment settings（disqus.com）
 disqus_username     : yongh7
