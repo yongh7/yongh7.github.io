@@ -13,10 +13,16 @@ markdown            : kramdown
 collection_order    : 
   [
     "posts",
+    "album",
   ]
 collections:
   posts:
     output          : true
+  album:
+    output          : true
+    permalink       : /:collection/:title/
+    sort_by         : date
+  
 
 # 3. Comment settings（disqus.com）
 disqus_username     : yongh7
