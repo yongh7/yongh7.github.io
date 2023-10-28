@@ -1,7 +1,7 @@
 # 1. Site Settings
 title               : Yong Huang
 owner               : "yongh7"
-url                : "https://yongh7.github.io"
+url                : "https://yongh7.com"
 baseurl            : "/"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
