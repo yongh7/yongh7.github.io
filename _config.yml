@@ -14,11 +14,16 @@ collection_order    :
   [
     "posts",
     "album",
+    "misc",
   ]
 collections:
   posts:
     output          : true
   album:
+    output          : true
+    permalink       : /:collection/:title/
+    sort_by         : date
+  misc:
     output          : true
     permalink       : /:collection/:title/
     sort_by         : date
