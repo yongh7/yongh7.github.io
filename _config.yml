@@ -18,7 +18,7 @@ collection_order    :
   ]
 collections:
   post:
-    output:         : true
+    output          : true
   album:
     output          : true
     permalink       : /:collection/:title/
