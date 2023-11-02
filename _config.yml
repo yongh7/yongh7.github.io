@@ -12,10 +12,13 @@ markdown            : kramdown
 # Keep it null if you want to show items in alphabetic order.
 collection_order    : 
   [
+    "post",
     "album",
     "misc",
   ]
 collections:
+  post:
+    output          : true
   album:
     output          : true
     permalink       : /:collection/:title/
